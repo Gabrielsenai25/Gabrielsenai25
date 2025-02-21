@@ -19,7 +19,7 @@ Me chamo Gabriel Vieira, tenho 17 anos e sou natural da cidade de Parnaíba, Pia
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/luzardoSENAI?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Gabrielsenai25?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
