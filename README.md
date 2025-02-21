@@ -12,7 +12,7 @@ Me chamo Gabriel Vieira, tenho 17 anos e sou natural da cidade de Parnaíba, Pia
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="[https://www.youtube.com/@Gabrielsenai](https://www.youtube.com/@GABRIELVIEIRACARVALHO-r1j](https://youtube.com/@gabrielvieiracarvalho-r1j?si=GVkVQNmkkQDJJlY6)">
+    <a href="https://www.youtube.com/@GABRIELVIEIRACARVALHO-r1j">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
