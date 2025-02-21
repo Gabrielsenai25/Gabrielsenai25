@@ -5,7 +5,7 @@
 Me chamo Gabriel Vieira, tenho 17 anos e sou natural da cidade de Parnaíba, Piauí.
 
 <p align="center">
-    <a href="https://www.youtube.com/@Gabrielsenai25?sub_confirmation=1">
+    <a href="https://www.youtube.com/@GABRIELVIEIRACARVALHO-r1j">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
