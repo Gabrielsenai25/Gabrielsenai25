@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Gabriel Vieira, tenho 17 anos e sou natural da cidade de Parnaíba, Piauí.
+Me chamo Gabriel Vieira, tenho 18 anos e sou natural da cidade de Parnaíba, Piauí.
 
 <p align="center">
     <a href="https://www.youtube.com/@GABRIELVIEIRACARVALHO-r1j">
